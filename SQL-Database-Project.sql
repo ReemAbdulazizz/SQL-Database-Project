@@ -57,7 +57,7 @@ insert into order_products values (1 ,1, 2);
 
 update countries set name='KSA' where code=1;
 
-delete from countries where code= 2;
+delete from products where id= 2;
 
 
 
